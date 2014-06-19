@@ -12,4 +12,4 @@ Repositories acts as an interface to your database layer by sitting in front of 
  * Allows for easier unit testing - in the case of Laravel, Mockery can be used to inject mock dependencies (such as mocking the database when testing the gateway)
  * Enables you to change databases very easily, since the only thing talking to the database is the repositories (meaning you won't have to search through an entire codebase for database references)
  
-Read more about the benefits of using this design pattern within laravel [here](ryantablada.com/post/two-design-patterns-that-will-make-your-applications-better).
+Read more about the benefits of using this design pattern within laravel [here](http://ryantablada.com/post/two-design-patterns-that-will-make-your-applications-better).
