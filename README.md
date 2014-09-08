@@ -13,3 +13,6 @@ Repositories acts as an interface to your database layer by sitting in front of 
  * Enables you to change databases very easily, since the only thing talking to the database is the repositories (meaning you won't have to search through an entire codebase for database references)
  
 Read more about the benefits of using this design pattern within laravel [here](http://ryantablada.com/post/two-design-patterns-that-will-make-your-applications-better).
+
+###Additional Projects
+This project inspired https://github.com/octabrain/Laravel4-Patterns
